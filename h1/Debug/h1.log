@@ -1,0 +1,5 @@
+﻿  h1.cpp
+y:\projects\c\h1\h1\h1.cpp(123): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+y:\projects\c\h1\h1\h1.cpp(237): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\conio.h(453): note: see declaration of 'getch'
+  h1.vcxproj -> Y:\Projects\C\h1\Debug\h1.exe
